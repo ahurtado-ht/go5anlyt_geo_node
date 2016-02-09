@@ -1,0 +1,85 @@
+{ "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.130383, 4.663883]
+            },
+            "properties": {
+				"numBonos": 2,
+				"valorBonos": 10000,
+				"sucursal": "HAYUELOS",
+				"empresa": "EL CORRAL",				
+				"popupContent": "<strong>tienda HAYUELOS</strong> tiene <strong>N</strong> cajas"
+            }
+        },
+        { "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.101431, 4.648000]
+            },
+            "properties": {
+				"numBonos": 3,
+				"valorBonos": 15000,
+				"sucursal": "GRAN ESTACION",
+				"empresa": "EL CORRAL",				
+				"popupContent": "<strong>tienda GRAN ESTACION</strong> tiene <strong>N</strong> cajas"
+            }
+        },
+        { "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.568954, 6.198736]
+            },
+            "properties": {
+				"numBonos": 4,
+				"valorBonos": 20000,
+				"sucursal": "POBLADO",
+				"empresa": "EL CORRAL",				
+				"popupContent": "<strong>tienda POBLADO</strong> tiene <strong>N</strong> cajas"
+            }
+        },
+        { "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.063773, 4.602625]
+            },
+            "properties": {
+				"numBonos": 5,
+				"valorBonos": 40000,
+				"sucursal": "CENTRO",
+				"empresa": "CARWASH",				
+				"popupContent": "<strong>tienda CENTRO</strong> tiene <strong>N</strong> cajas"
+            }
+        },
+        { "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.064996, 4.646973]
+            },
+            "properties": {
+				"numBonos": 5,
+				"valorBonos": 40000,
+				"sucursal": "CHAPINERO",
+				"empresa": "CARWASH",				
+				"popupContent": "<strong>tienda CHAPINERO</strong> tiene <strong>N</strong> cajas"
+            }
+        },
+        { "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.542593, 10.427417]
+            },
+            "properties": {
+				"numBonos": 10,
+				"valorBonos": 400000,
+				"sucursal": "PLAYAS",
+				"empresa": "CARWASH",				
+				"popupContent": "<strong>tienda PLAYAS</strong> tiene <strong>N</strong> cajas"
+            }
+        }		
+		
+	]
+}
+		
+		
